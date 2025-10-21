@@ -47,10 +47,10 @@ export default function Home() {
         "Broad access to leading banks, credit unions, monoline and alternative lenders — I match your file to the best fit.",
       pre: {
         h: "Get Pre-Approved",
-        p: "Start here and I’ll reply with your personalized checklist and next steps.",
+        p: "Start here and I'll reply with your personalized checklist and next steps.",
         submit: "Submit",
       },
-      thanks: "Thanks! I’ll follow up by email with next steps.",
+      thanks: "Thanks! I'll follow up by email with next steps.",
       about: "About",
       meet: "Meet Simon",
       contact: "Contact",
@@ -80,7 +80,7 @@ export default function Home() {
         "À propos",
         "Contact",
       ],
-      tag: "Conseils hypothécaires de confiance à travers l’Atlantique",
+      tag: "Conseils hypothécaires de confiance à travers l'Atlantique",
       heroH: "Taux concurrentiels, produits adaptés — prêteurs A, B et privés.",
       heroP:
         "Achat, refinancement, construction ou renouvellement — je magasine plusieurs prêteurs et bâtis une stratégie sur mesure. Étapes claires, délais rapides et options construction/marge de crédit pour une solution adaptée.",
@@ -100,7 +100,7 @@ export default function Home() {
         "À titre indicatif; OAC; conditions applicables. Contactez-moi pour un taux en temps réel selon votre dossier.",
       lenders: "Prêteurs partenaires",
       lendersBlurb:
-        "Accès aux banques, caisses, prêteurs spécialisés et alternatifs — j’aligne votre dossier au meilleur produit.",
+        "Accès aux banques, caisses, prêteurs spécialisés et alternatifs — j'aligne votre dossier au meilleur produit.",
       pre: {
         h: "Obtenir une préapprobation",
         p: "Commencez ici et je vous enverrai une liste de documents personnalisée et les prochaines étapes.",
@@ -121,7 +121,7 @@ export default function Home() {
       footerNav: "Navigation",
       footerDisc: "Mentions",
       footerText:
-        "Les produits et taux peuvent changer sans préavis. OAC. Modalités s’appliquent. Le TAP peut varier.",
+        "Les produits et taux peuvent changer sans préavis. OAC. Modalités s'appliquent. Le TAP peut varier.",
       subscribe: "Restez informé",
       subscribeHint: "Mises à jour trimestrielles. Aucun pourriel.",
     },
@@ -467,7 +467,7 @@ export default function Home() {
               Real Customer Reviews
             </h2>
             <p className="text-slate-600 mt-1">
-              I’m proud of the feedback from clients across Atlantic Canada.
+              I'm proud of the feedback from clients across Atlantic Canada.
               Read real stories and ratings on Google.
             </p>
           </div>
@@ -636,7 +636,7 @@ export default function Home() {
               <p className="text-[11px] text-slate-500">
                 {lang === "en"
                   ? "By submitting, you agree to be contacted regarding mortgage options. Your info is kept confidential."
-                  : "En soumettant, vous consentez à être contacté au sujet d’options hypothécaires. Vos informations demeurent confidentielles."}
+                  : "En soumettant, vous consentez à être contacté au sujet d'options hypothécaires. Vos informations demeurent confidentielles."}
               </p>
             </form>
           )}
@@ -660,12 +660,12 @@ export default function Home() {
     <div className="rounded-2xl border shadow-sm p-6 space-y-3 text-sm leading-relaxed bg-white">
       <h3 className="font-semibold">{t.meet}</h3>
       <p>
-        Simon is a bilingual professional with a strong background in
-        business administration, sales, and team management. Holding a
-        master's degree in business administration from Université de
-        Moncton and an international management degree from Université de
-        Poitiers, Simon combines solid academic credentials with practical
-        expertise.
+  Simon is a bilingual professional with a strong background in
+  business administration, sales, and team management. Holding a
+  master&#39;s degree in business administration from Université de
+  Moncton and an international management degree from Université de
+  Poitiers, Simon combines solid academic credentials with practical
+  expertise.
       </p>
       <p>
         In his role as a territory manager at Molson Coors Canada, Simon
