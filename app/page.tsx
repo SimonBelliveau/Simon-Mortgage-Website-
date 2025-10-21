@@ -706,7 +706,7 @@ export default function Home() {
       </div>
       <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow">
         <Image
-          src="/Simon2.jpg"
+          src="/simon2.jpg"
           alt="Simon Belliveau"
           fill
           className="object-cover object-center"
