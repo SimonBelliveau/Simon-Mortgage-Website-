@@ -387,7 +387,7 @@ export default function Home() {
         <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-6">
           {[
             [lang === "en" ? "3-Year Fixed" : "Fixe 3 ans", "3.99%"],
-            [lang === "en" ? "5-Year Fixed" : "Fixe 5 ans", "4.09%"],
+            [lang === "en" ? "5-Year Fixed" : "Fixe 5 ans", "3.89%"],
             [
               lang === "en" ? "5-Year Variable" : "Variable 5 ans",
               lang === "en" ? "Prime − 0.70%" : "Taux préférentiel − 0,70%",
