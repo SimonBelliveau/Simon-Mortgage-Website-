@@ -13,7 +13,7 @@ export default function Home() {
   const SOFT = "#F6F9FC";
 
   const APPLY_URL =
-    "https://velocity.newton.ca/sso/public.php?sc=1mv0wu7jgafdt";
+    "https://velocity.newton.ca/sso/public.php?sc=1o6rtzb4snmt8";
 
   // ───────────────────────────────────────────────────────────────────────────────
   // COPY (unchanged; FR aligned to EN)
